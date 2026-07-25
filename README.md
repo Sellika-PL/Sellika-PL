@@ -52,7 +52,7 @@
 
 ### 🌤️ Connect with me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-C2E9FB?style=for-the-badge&logo=gmail&logoColor=2B4C7E)](mailto:sellikapalaniappan29@example.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-C2E9FB?style=for-the-badge&logo=gmail&logoColor=2B4C7E)](mailto:sellikapalaniappan29@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A1C4FD?style=for-the-badge&logo=linkedin&logoColor=2B4C7E)](www.linkedin.com/in/sellika-palaniappan-177779329)
 
 </div>
