@@ -1,0 +1,71 @@
+<svg width="900" height="430" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1520"/>
+      <stop offset="100%" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00ff88" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="#00b7ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="428" rx="24" fill="url(#bg)" stroke="#183044" stroke-width="2"/>
+  <ellipse cx="90" cy="380" rx="250" ry="150" fill="url(#glow)"/>
+
+  <!-- terminal bar -->
+  <line x1="1" y1="48" x2="899" y2="48" stroke="#183044" stroke-width="1"/>
+  <circle cx="24" cy="24" r="6" fill="#ff5f57"/>
+  <circle cx="45" cy="24" r="6" fill="#febc2e"/>
+  <circle cx="66" cy="24" r="6" fill="#28c840"/>
+  <text x="88" y="29" fill="#7f8b98" font-family="monospace" font-size="13">sellika@github — zsh</text>
+
+  <!-- heading -->
+  <text x="34" y="91" fill="#f5f7fa" font-family="Arial, sans-serif" font-size="27" font-weight="700">
+    Hi 👋 I'm Sellika Palaniappan
+  </text>
+  <text x="34" y="121" fill="#00ff88" font-family="monospace" font-size="16">› CSE Student · Builder · Explorer</text>
+
+  <line x1="34" y1="145" x2="866" y2="145" stroke="#183044" stroke-width="1"/>
+
+  <!-- details -->
+  <text x="34" y="177" fill="#8fa0b3" font-family="Arial, sans-serif" font-size="13">🎓 Education</text>
+  <text x="170" y="177" fill="#f2f5f7" font-family="Arial, sans-serif" font-size="13">3rd Year · Computer Science &amp; Engineering</text>
+
+  <text x="34" y="211" fill="#8fa0b3" font-family="Arial, sans-serif" font-size="13">🔭 Focus</text>
+  <text x="170" y="211" fill="#f2f5f7" font-family="Arial, sans-serif" font-size="13">AI / ML · Cloud · Sustainable Computing</text>
+
+  <text x="34" y="245" fill="#8fa0b3" font-family="Arial, sans-serif" font-size="13">🛠 Building</text>
+  <text x="170" y="245" fill="#f2f5f7" font-family="Arial, sans-serif" font-size="13">Projects · learning by building</text>
+
+  <text x="34" y="279" fill="#8fa0b3" font-family="Arial, sans-serif" font-size="13">📚 Learning</text>
+  <text x="170" y="279" fill="#f2f5f7" font-family="Arial, sans-serif" font-size="13">Python · Java · SQL · DSA · Git</text>
+
+  <!-- skills -->
+  <text x="34" y="317" fill="#f2f5f7" font-family="Arial, sans-serif" font-size="13" font-weight="700">Skills I'm building</text>
+
+  <g font-family="monospace" font-size="11">
+    <rect x="34" y="334" width="83" height="28" rx="14" fill="#0c1d24" stroke="#00e982"/>
+    <text x="75.5" y="352" text-anchor="middle" fill="#eafff4">Python</text>
+
+    <rect x="125" y="334" width="76" height="28" rx="14" fill="#0c1d24" stroke="#00e982"/>
+    <text x="163" y="352" text-anchor="middle" fill="#eafff4">Java</text>
+
+    <rect x="209" y="334" width="72" height="28" rx="14" fill="#0c1d24" stroke="#00e982"/>
+    <text x="245" y="352" text-anchor="middle" fill="#eafff4">SQL</text>
+
+    <rect x="289" y="334" width="72" height="28" rx="14" fill="#0c1d24" stroke="#00e982"/>
+    <text x="325" y="352" text-anchor="middle" fill="#eafff4">DSA</text>
+
+    <rect x="369" y="334" width="72" height="28" rx="14" fill="#0c1d24" stroke="#00e982"/>
+    <text x="405" y="352" text-anchor="middle" fill="#eafff4">Git</text>
+
+    <rect x="449" y="334" width="88" height="28" rx="14" fill="#0c1d24" stroke="#00e982"/>
+    <text x="493" y="352" text-anchor="middle" fill="#eafff4">AI / ML</text>
+
+    <rect x="545" y="334" width="91" height="28" rx="14" fill="#0c1d24" stroke="#00e982"/>
+    <text x="590.5" y="352" text-anchor="middle" fill="#eafff4">Cloud</text>
+  </g>
+
+  <text x="34" y="398" fill="#6f7f8f" font-family="monospace" font-size="12">$ status → still figuring it out :)</text>
+</svg>
