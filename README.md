@@ -2,11 +2,11 @@
 
 <img src="./banner.gif" width="700">
 
-<br><br>
+<br>
 
 <img src="./profile-card.svg" width="700">
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/sellika-palaniappan/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
