@@ -4,6 +4,23 @@
 
 <br>
 
+### SELLİKA PALANIAPPAN
+
+```text
+$ ./explore.sh
+
+[+] ai/ml
+[+] cloud
+[+] sustainable computing
+
+$ ./learn.sh
+
+python · java · sql · dsa · git
+
+$ status
+
+still figuring it out :)
+
 <a href="https://www.linkedin.com/in/sellika-palaniappan/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
