@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./profile-card.svg" width="600">
+<img src="./profile-card (1).svg" width="600">
 
 <br>
 
